@@ -38,7 +38,7 @@ http://www.python.org/ftp/python/2.7.9/python-2.7.9.msi
 
 情况一：
 
-![python-command](![install-python-windows](http://emanual.github.io/md-python/img/tutorial/0001-0003-02.png)
+![python-command](http://emanual.github.io/md-python/img/tutorial/0001-0003-03.png)
 
 看到上面的画面，就说明Python安装成功！
 
